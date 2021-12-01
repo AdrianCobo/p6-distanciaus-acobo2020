@@ -88,4 +88,6 @@ Si quieres ver un video de demostracion del ej1, pulsa [aqui](https://drive.goog
 
 Si quieres ver un video de demostracion del ej2, pulsa [aqui](https://drive.google.com/file/d/13HE9hiigJC6TBC2GDbPAyeLynDoZgk1s/view?usp=sharing).
 
+Para la parte del funcionamiento del sensor, me he ayudado del codigo de [esta pagina](https://tutorials-raspberrypi.com/raspberry-pi-ultrasonic-sensor-hc-sr04/)
+
 Para cualquier duda: <a.cobo.2020@alumos.urjc.es>
