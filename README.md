@@ -6,8 +6,8 @@ El objetivo de este esta práctica es tener la primera toma de contacto con el s
 
 ### Ejercicio1
 
-En el ejercicio 1 hacemos un programa que apagará o encendera unos leds en función de la distancia que mida el senor: Se encendera el led 
-rojo si hay un objeto muy cerca del sensor, el amarillo si hay una distancia razonable, y verde si el objeto esta bastante lejos.
+En el ejercicio 1 hacemos un programa que apagará o encenderá unos leds en función de la distancia que mida el senor. Se encenderá un led 
+rojo si hay un objeto muy cerca del sensor, el amarillo si hay una distancia razonable, y uno verde si el objeto esta bastante lejos.
 
 ```python
     dist = distance()
@@ -29,7 +29,7 @@ rojo si hay un objeto muy cerca del sensor, el amarillo si hay una distancia raz
 ### Ejercicio2
 
 En el ejercicio 2 hacemos un programa que controlara 3 leds con el mismo comportamiento que en el ejercicio 1, pero además controlara un
-zumbador que no pitará si hay bastante distancia al objeto, pitar,a un poco si esta a una distancia moderada, y pitará mucho si el objeto
+zumbador que no pitará si hay bastante distancia al objeto, pitará un poco si está a una distancia moderada, y pitará mucho si el objeto
 esta muy cerca 
 
 ```python
@@ -51,7 +51,7 @@ esta muy cerca
         pwm3.ChangeDutyCycle(100)
         pwm4.ChangeDutyCycle(100)
 ```
-**Aclaración**
+**Aclaración:**
 En los trozos de programas que hemos puesto, pwm corresponde al led verde,pwm2 corresponde al led amarillo,pwm3 corresponde al led rojo y
 pwm4 corresponde al zumbador.
 
